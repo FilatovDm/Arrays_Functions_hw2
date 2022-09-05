@@ -6,9 +6,34 @@
 918 -> 1 
 */
 
+/*
 Console.Write("Введите трехзначное число: ");
 
 int number = int.Parse(Console.ReadLine());
 string stringNumber = Convert.ToString(number);
 
 Console.WriteLine($"Вторая цифра числа {number}: {stringNumber[1]}");
+/*
+
+
+/*
+Console.Write("Введите трехзначное число: ");
+int number = int.Parse(Console.ReadLine());
+Console.WriteLine(number%100/10);
+*/
+
+void SecondNumber(int a) 
+{
+    int number = a;
+    //while(number > 100)
+    //{
+    //    number = number / 10;
+    //}
+    int secNum = number % 100 / 10;
+    Console.WriteLine("Вторая цифра числа: " + Math.Abs(secNum));
+}
+
+Console.Write("Введите трехзначное число: ");
+int number = int.Parse(Console.ReadLine());
+
+SecondNumber(number);

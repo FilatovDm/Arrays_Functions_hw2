@@ -1,0 +1,15 @@
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\bin\Debug\net6.0\hw1_10.exe
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\bin\Debug\net6.0\hw1_10.deps.json
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\bin\Debug\net6.0\hw1_10.runtimeconfig.json
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\bin\Debug\net6.0\hw1_10.dll
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\bin\Debug\net6.0\hw1_10.pdb
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\obj\Debug\net6.0\hw1_10.csproj.AssemblyReference.cache
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\obj\Debug\net6.0\hw1_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\obj\Debug\net6.0\hw1_10.AssemblyInfoInputs.cache
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\obj\Debug\net6.0\hw1_10.AssemblyInfo.cs
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\obj\Debug\net6.0\hw1_10.csproj.CoreCompileInputs.cache
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\obj\Debug\net6.0\hw1_10.dll
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\obj\Debug\net6.0\refint\hw1_10.dll
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\obj\Debug\net6.0\hw1_10.pdb
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\obj\Debug\net6.0\hw1_10.genruntimeconfig.cache
+C:\GitEd\Course_develop_lang\Arrays_Functions_hw2\hw2_10\obj\Debug\net6.0\ref\hw1_10.dll
