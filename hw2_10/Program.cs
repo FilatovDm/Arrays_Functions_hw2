@@ -25,10 +25,6 @@ Console.WriteLine(number%100/10);
 void SecondNumber(int a) 
 {
     int number = a;
-    //while(number > 100)
-    //{
-    //    number = number / 10;
-    //}
     int secNum = number % 100 / 10;
     Console.WriteLine("Вторая цифра числа: " + Math.Abs(secNum));
 }
